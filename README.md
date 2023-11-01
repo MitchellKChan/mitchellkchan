@@ -15,14 +15,14 @@ My name is Mitchell and I'm a Software Engineer from the San Francisco Bay Area!
  ⚡  In my free time, I love hanging out with friends, exercising, gaming, and enjoying great food
 
 
-### 📫 Let's connect!
+### Let's connect!
   
 <a href="https://www.linkedin.com/in/mitchellkchan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:mitchellkchan@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ---
 
-### 🛠️ Languages, Tools and Software :
+### Languages, Tools and Software :
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -49,7 +49,7 @@ My name is Mitchell and I'm a Software Engineer from the San Francisco Bay Area!
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mitchellkchan&theme=dark&background=000000)](https://git.io/streak-stats)
 
