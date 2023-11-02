@@ -6,7 +6,7 @@
 
 My name is Mitchell and I'm a Software Engineer from the San Francisco Bay Area!
 
- 📒  I'm a former cybersecurity consultant with 4 years of experience
+ 📒  I'm a former consultant with 4 years of experience in cybersecurity
 
  💻  I’m currently working on full-stack web applications and brushing up on Python
 
