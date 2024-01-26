@@ -52,6 +52,6 @@ My name is Mitchell and I'm a Software Engineer from the San Francisco Bay Area!
 
 ### My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mitchellkchan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mitchellkchan&theme=dark&background=000000&exclude_days=Sun,Sat)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitchellkchan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
